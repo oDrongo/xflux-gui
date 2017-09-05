@@ -1,0 +1,2 @@
+1-If you tried 'flux-gui' and he return ''Failed to load module "canberra-gtk-module". Try (with * ): sudo apt-get install libcanberra-gtk*
+2-In some cases, the fluxgui open, but stay normal, try open him with 'sudo'. Like this: 'sudo fluxgui'
